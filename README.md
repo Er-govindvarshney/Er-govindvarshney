@@ -1,3 +1,3 @@
-Hello Everyone !!
-1st year BTech CSE Core student | Learning python and DSA | python beginner
-Wants to get industry level ready for this tech world during this 4 year journey.
+# Hi, I'm Govind Varshney 👋
+1st-year B.Tech CSE student | Learning Python & DSA
+🎯 Goal: To become an industry-ready software engineer by the end of my 4-year journey
