@@ -1,5 +1,3 @@
-Hello everyone !! 
-This is GOVIND VARSHNEY and i am learning python with the intention of using python as my core language for future
-I will be using python for DSA and everything
-.
-THank You
+Hello Everyone !!
+1st year BTech CSE Core student | Learning python and DSA | python beginner
+Wants to get industry level ready for this tech world during this 4 year journey.
